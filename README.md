@@ -47,7 +47,7 @@
 ## Output:
 
 ### Name: Markandeyan Gokul
-### Register Number: 212223240086
+### Register Number: 212224240086
 
 ![ex 6 2 1](https://github.com/user-attachments/assets/939ab922-0dad-49d6-9186-5d13a784ca84)
 ![ex 6 2 2](https://github.com/user-attachments/assets/9dcf2429-2e05-4513-9f9d-ae7d0c2a519e)
